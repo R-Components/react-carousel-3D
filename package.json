@@ -1,0 +1,20 @@
+{
+  "name": "react-carousel-3d",
+  "version": "1.0.0",
+  "description": "react-carousel-3D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Components/react-carousel-3D.git"
+  },
+  "keywords": [],
+  "author": "Go7hic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Components/react-carousel-3D/issues"
+  },
+  "homepage": "https://github.com/R-Components/react-carousel-3D#readme"
+}
